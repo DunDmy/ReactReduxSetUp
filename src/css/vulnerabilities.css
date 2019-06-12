@@ -1,0 +1,6 @@
+.fieldset__vulnerabilities {
+	border: 1px solid black;
+	height: 200px;
+	width: 800px;
+	margin: auto;
+}

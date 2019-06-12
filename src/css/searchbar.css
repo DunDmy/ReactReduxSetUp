@@ -1,0 +1,19 @@
+.fieldset__searchbar {
+	border: 1px solid black;
+	height: 50px;
+	width: 800px;
+	margin: auto;
+}
+.input__searchbar {
+	height: 25px;
+	width: 600px;
+	margin: auto;
+	padding-right: 40px;
+}
+.button__searchbar {
+	height: 31px;
+	width: 80px;
+}
+.span__searchbar {
+	margin: 10px;
+}
